@@ -9,3 +9,4 @@ Promover o aprendizado de boas práticas de segurança digital por meio de uma e
 a definir
 
 ## Como jogar
+O jogo joga assim ó:

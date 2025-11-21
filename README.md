@@ -8,16 +8,16 @@ Promover o aprendizado de boas práticas de segurança digital por meio de uma e
 
 ## Tecnologias utilizadas 
 
-React: Biblioteca principal para construção da interface.
-TypeScript: Linguagem utilizada nos arquivos fonte (.tsx, .ts).
-Vite: Ferramenta de build e desenvolvimento rápido.
-Radix UI: Conjunto de componentes acessíveis e estilizados para React, usado amplamente na interface (accordion, dialogs, menu, etc.).
-Tailwind CSS (e tailwind-merge): Utilitário para estilização e padronização visual.
-Lucide React: Ícones vetoriais.
-Recharts: Biblioteca para gráficos.
-Embla Carousel, react-hook-form, sonner, cmdk, vaul: Outras libs auxiliares diversas para UI, formulários, notificações e UX.
-next-themes: Suporte a temas/claro-escuro.
-Outras bibliotecas Radix: Tooltip, Switch, Avatar, Checkbox, etc.
+  - React: Biblioteca principal para construção da interface.
+  - TypeScript: Linguagem utilizada nos arquivos fonte (.tsx, .ts).
+  - Vite: Ferramenta de build e desenvolvimento rápido.
+  - Radix UI: Conjunto de componentes acessíveis e estilizados para React, usado amplamente na interface (accordion, dialogs, menu, etc.).
+  - Tailwind CSS (e tailwind-merge): Utilitário para estilização e padronização visual.
+  - Lucide React: Ícones vetoriais.
+  - Recharts: Biblioteca para gráficos.
+  - Embla Carousel, react-hook-form, sonner, cmdk, vaul: Outras libs auxiliares diversas para UI, formulários, notificações e UX.
+  - next-themes: Suporte a temas/claro-escuro.
+  - Outras bibliotecas Radix: Tooltip, Switch, Avatar, Checkbox, etc.
 
 ## Características do jogo e como jogar
 
@@ -31,7 +31,7 @@ As principais características e regras visíveis no código e nos dados:
   - Durante o percurso, surgem dicas e mensagens educativas sobre segurança digital, baseadas nas casas em que se cai.
   - As ações, penalidades e bônus estão detalhadas nos dados (gameData.ts).
 
-# Para jogar
+## Para jogar
 
   1. Escolha o modo de jogo (sozinho ou com até 4 pessoas no mesmo dispositivo).
   2. Cada jogador digita seu nome.

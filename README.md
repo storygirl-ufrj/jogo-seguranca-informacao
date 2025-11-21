@@ -1,4 +1,4 @@
-# Jogo de Tabuleiro Digital: Segurança da Informação 🛡️🎲
+# Jogo de Tabuleiro Digital: Segurança da Informação 🛡️
 
 Este projeto é um jogo de tabuleiro digital educativo voltado para ensinar e testar conhecimentos sobre segurança da informação no qual os jogadores avançam casas rolando dados, como num jogo de percurso. Desenvolvido como parte de um desafio laboral do projeto StoryGirl.
 

@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { Player } from '../types/game';
 import { playerColors } from '../data/gameData';
 import { motion } from 'motion/react';
-import logoImage from 'figma:asset/c45a8afaa713746c4cb6412dee277eb73309e7f0.png';
+import logoImage from '../assets/logo.png';
 
 interface PlayerSetupProps {
   onStartGame: (players: Player[]) => void;

@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import React, { useState } from 'react';
 import { Player, GameTile } from './types/game';
 import { gameTiles } from './data/gameData';
 import { PlayerSetup } from './components/PlayerSetup';
@@ -7,7 +7,7 @@ import { Dice } from './components/Dice';
 import { ChallengeCard } from './components/ChallengeCard';
 import { motion, AnimatePresence } from 'motion/react';
 import { Trophy, RotateCcw } from 'lucide-react';
-import logoImage from 'figma:asset/c45a8afaa713746c4cb6412dee277eb73309e7f0.png';
+import logoImage from './assets/logo.png';
 
 export default function App() {
   const [gameStarted, setGameStarted] = useState(false);
